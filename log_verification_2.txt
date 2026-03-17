@@ -1,0 +1,7 @@
+STARTING TEST
+Configuring with key: AIzaS...
+Model initialized: gemini-1.5-flash
+Calling generate_content...
+Response object received.
+Response text: Hello! I understand. How can I help you today, or what would you like to test?
+TEST COMPLETE
